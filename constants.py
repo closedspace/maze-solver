@@ -1,0 +1,7 @@
+WALL_CODE = 1
+EMPTY_CODE = 0
+WALL_COLOR = "black"
+EMPTY_COLOR = "white"
+TRAVELLED_COLOR = "magenta"
+START_COLOR="orange"
+END_COLOR="green"
